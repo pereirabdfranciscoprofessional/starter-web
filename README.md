@@ -8,6 +8,10 @@ Sample website with plenty of files for demos
 
 ## Purpose
 
+Some Purpose
+
 ## Deployment
+
+New Deployment unsave status
 
 ## How To Contribute
