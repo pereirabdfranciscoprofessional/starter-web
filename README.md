@@ -16,5 +16,6 @@ New Deployment unsave status
 
 ## How To Contribute
 
+Please fork this repository and then issue Pull Requests for review.
 
 Note
