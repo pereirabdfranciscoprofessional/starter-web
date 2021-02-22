@@ -17,5 +17,3 @@ New Deployment unsave status
 ## How To Contribute
 
 Please fork this repository and then issue Pull Requests for review.
-
-Add more notes, more changes from myfeature branch
